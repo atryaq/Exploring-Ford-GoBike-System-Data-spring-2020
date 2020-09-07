@@ -21,3 +21,6 @@ This data set includes details about individual rides made in a bike-sharing sys
 - Proportion of bike types.
 - Effect of user/bike categoty on trip duration.
 - Change of total bike rides over time.
+
+## Data source: 
+https://www.lyft.com/bikes/bay-wheels/system-data
