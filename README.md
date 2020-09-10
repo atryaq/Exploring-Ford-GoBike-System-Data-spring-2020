@@ -14,6 +14,7 @@ This data set includes details about individual rides made in a bike-sharing sys
 - Number of trips each week increases over time.
 - Visually, there is a potential negative correlation between number of rides per week and mean ride duration, however, further analysis is required for asessing this relationship.
 
+To watch the final visualization slide show: download and open 'slides.slides.html' file. For more extensive details, you can check ['exploration.ipynb'](https://github.com/atryaq/Exploring-Ford-GoBike-System-Data-spring-2020/blob/master/exploration.ipynb) notebook.
 
 ## Key Insights for Presentation
 
